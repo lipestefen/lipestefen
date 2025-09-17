@@ -1,16 +1,29 @@
+# 👋 Olá, eu sou o Felipe Gabriel!
+
+## 🚀 Sobre mim
+- 💻 Desenvolvedor iniciante, sempre aprendendo novas tecnologias
+- 🎮 Apaixonado por games, projetos criativos e tecnologia
+- 📚 Atualmente estudando **[coloque sua stack principal aqui]**
+- 🌱 Buscando colaborar em projetos open-source e aprender com a comunidade
+
+## 🛠 Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+*(adicione ou remova conforme sua stack)*
+
+## 📊 Estatísticas do GitHub
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
+[!Email](felipe_stefen@estudante.sesisenai.org.br).
+
+---
+⭐️ Feito com dedicação por **Felipe Gabriel**
 ## Hi there 👋
-
-<!--
-**lipestefen/lipestefen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
