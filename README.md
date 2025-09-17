@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor iniciante, sempre aprendendo novas tecnologias
 - 🎮 Apaixonado por games, projetos criativos e tecnologia
-- 📚 Atualmente estudando **[coloque sua stack principal aqui]**
+- 📚 Atualmente estudando TI 
 - 🌱 Buscando colaborar em projetos open-source e aprender com a comunidade
 
 ## 🛠 Tecnologias e Ferramentas
@@ -12,8 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-*(adicione ou remova conforme sua stack)*
 
 ## 📊 Estatísticas do GitHub
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
@@ -25,5 +23,4 @@
 [!Email](mailto:felipe_stefen@estudante.sesisenai.org.br).
 
 ---
-⭐️ Feito com dedicação por **Felipe Gabriel**
-## Hi there 👋
+⭐️ Feito com dedicação por --Felipe Gabriel--
