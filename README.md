@@ -13,14 +13,6 @@
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - [GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Minhas Estatísticas
-
-- ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/lipestefen&show_icons=true&theme=radical)  
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=radical)](https://git.io/streak-stats)  
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)  
-- [![trophy](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
